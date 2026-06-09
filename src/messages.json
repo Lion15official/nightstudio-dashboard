@@ -1,0 +1,13 @@
+{
+  "oddanie": "@lion15_mc  **{nick}** oddał nagranie sceny **\"{scena}\"** w projekcie **{projekt}**",
+
+  "studioPauza": "**Night Studio** zostało wstrzymane. Wszystkie projekty na pauzie",
+
+  "studioWznowienie": "**Night Studio** wznowiło działanie",
+
+  "nowyProjekt": "Nowy projekt **\"{projekt}\"** został dodany do Night Studio",
+
+  "nowaOsoba": "**{nick}** ({rola}) dołączył do ekipy Night Studio",
+
+  "projektUkończony": "Projekt **\"{projekt}\"** został ukończony"
+}
